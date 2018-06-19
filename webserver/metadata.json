@@ -1,0 +1,15 @@
+{
+  "name": "sakthi9698/webserver",
+  "version": "0.1.0",
+  "author": "sakthi9698",
+  "summary": "This module install httpd package, start httpd service and put some message inside /var/www/html/index.html",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
